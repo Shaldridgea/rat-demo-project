@@ -1,6 +1,6 @@
-# RAT Demo Project
+# Real Accessibility Toolkit (RAT) Demo Project
 
-The Real Accessibility Toolkit (RAT) is a videogame accessibility package for the Unity engine.
+The RAT is a videogame accessibility package for the Unity engine.
 
 This repository contains the files for just the RAT as well as a demo project to display the toolkit's functions.
 
