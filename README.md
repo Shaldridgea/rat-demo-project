@@ -11,7 +11,7 @@ A short video of the demo project can be watched here:
 [<img src="https://i.ytimg.com/vi/BYrZ6uTeVuo/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=BYrZ6uTeVuo "RAT Demo Video")
 
 ## Usage guide
-A more in-depth ReadMe can be found in the RAT files.
+A more [in-depth ReadMe](RAT/RAT%20README.txt) can be found in the RAT files with instructions on how all the features work.
 
 ### Quick Setup
 Go to folder RAT -> Settings -> Default Settings resource.
